@@ -13,17 +13,6 @@ Meu nome é Rafael Domenegueti!
 - Aplicativo nativo para POS - Kotlin
 - Projeto para consumo de conteúdo educativo - React Native | React | Node.js
 
-
-__Confira meus repositórios:__
-
-<div>
-  <p>
-    <a href="https://github.com/RafaelDomenegueti/react-file-structure">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelDomenegueti&repo=react-file-structure" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <h2>👀 Estatísticas</h2>
 
 <div align="center">
